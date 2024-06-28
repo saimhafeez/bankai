@@ -26,17 +26,29 @@ The key feature of Bankai is its "anti-embarrassment" and efficient cards manage
 Backend Available at: [![Javascript Course](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hafizabdullah510/Bankai-backend)
 
 ## Screenshots
-
-| Home | Shop | Product-Details |
-|----------|----------|----------|
-| ![Home](images/home.jpeg) | ![Shop](images/shop.jpeg) | ![Product-Details](images/product-details.jpeg) |
-| Cart | My Orders (Customer) | Track Order |
-| ![Cart](images/cart.jpeg) | ![My Orders (Customer)](images/customer-my-orders.jpeg) | ![Track Order](images/track-order.jpeg) |
-| Wishlist | Vendor Dashboard | Create Product (Vendor) |
-| ![Wishlist](images/wishlist.jpeg) | ![Vendor Dashboard](images/vendor-dashboard.jpeg) | ![Create Product (Vendor)](images/vendor-create-product.jpeg) |
-| Vendor Orders | Vendor's Page For Customers | Vendor Profile |
-| ![Vendor Orders](images/vendor-orders.jpeg) | ![Vendor's Page For Customers](images/vendor-page.jpeg) | ![Vendor Profile](images/vendor-profile.jpeg) |
-
+![Page01](https://github.com/saimhafeez/bankai/blob/main/screenshots/Bankai%20-%20FYP%202%20Presentation_Page1.jpg)
+![Page02](https://github.com/saimhafeez/bankai/blob/main/screenshots/Bankai%20-%20FYP%202%20Presentation_Page2.jpg)
+![Page03](https://github.com/saimhafeez/bankai/blob/main/screenshots/Bankai%20-%20FYP%202%20Presentation_Page3.jpg)
+![Page04](https://github.com/saimhafeez/bankai/blob/main/screenshots/Bankai%20-%20FYP%202%20Presentation_Page4.jpg)
+![Page05](https://github.com/saimhafeez/bankai/blob/main/screenshots/Bankai%20-%20FYP%202%20Presentation_Page5.jpg)
+![Page06](https://github.com/saimhafeez/bankai/blob/main/screenshots/Bankai%20-%20FYP%202%20Presentation_Page6.jpg)
+![Page07](https://github.com/saimhafeez/bankai/blob/main/screenshots/Bankai%20-%20FYP%202%20Presentation_Page7.jpg)
+![Page08](https://github.com/saimhafeez/bankai/blob/main/screenshots/Bankai%20-%20FYP%202%20Presentation_Page8.jpg)
+![Page09](https://github.com/saimhafeez/bankai/blob/main/screenshots/Bankai%20-%20FYP%202%20Presentation_Page9.jpg)
+![Page10](https://github.com/saimhafeez/bankai/blob/main/screenshots/Bankai%20-%20FYP%202%20Presentation_Page10.jpg)
+![Page11](https://github.com/saimhafeez/bankai/blob/main/screenshots/Bankai%20-%20FYP%202%20Presentation_Page11.jpg)
+![Page12](https://github.com/saimhafeez/bankai/blob/main/screenshots/Bankai%20-%20FYP%202%20Presentation_Page12.jpg)
+![Page13](https://github.com/saimhafeez/bankai/blob/main/screenshots/Bankai%20-%20FYP%202%20Presentation_Page13.jpg)
+![Page14](https://github.com/saimhafeez/bankai/blob/main/screenshots/Bankai%20-%20FYP%202%20Presentation_Page14.jpg)
+![Page15](https://github.com/saimhafeez/bankai/blob/main/screenshots/Bankai%20-%20FYP%202%20Presentation_Page15.jpg)
+![Page16](https://github.com/saimhafeez/bankai/blob/main/screenshots/Bankai%20-%20FYP%202%20Presentation_Page16.jpg)
+![Page17](https://github.com/saimhafeez/bankai/blob/main/screenshots/Bankai%20-%20FYP%202%20Presentation_Page17.jpg)
+![Page18](https://github.com/saimhafeez/bankai/blob/main/screenshots/Bankai%20-%20FYP%202%20Presentation_Page18.jpg)
+![Page19](https://github.com/saimhafeez/bankai/blob/main/screenshots/Bankai%20-%20FYP%202%20Presentation_Page19.jpg)
+![Page20](https://github.com/saimhafeez/bankai/blob/main/screenshots/Bankai%20-%20FYP%202%20Presentation_Page20.jpg)
+![Page21](https://github.com/saimhafeez/bankai/blob/main/screenshots/Bankai%20-%20FYP%202%20Presentation_Page21.jpg)
+![Page22](https://github.com/saimhafeez/bankai/blob/main/screenshots/Bankai%20-%20FYP%202%20Presentation_Page22.jpg)
+![Page23](https://github.com/saimhafeez/bankai/blob/main/screenshots/Bankai%20-%20FYP%202%20Presentation_Page23.jpg)
 
 ## License 📄
 
