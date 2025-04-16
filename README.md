@@ -27,7 +27,6 @@ Backend Available at: [![Javascript Course](https://img.shields.io/badge/github-
 
 ## Screenshots
 ![Page01](https://github.com/saimhafeez/bankai/blob/main/screenshots/Bankai%20-%20FYP%202%20Presentation_Page1.jpg)
-![Page02](https://github.com/saimhafeez/bankai/blob/main/screenshots/Bankai%20-%20FYP%202%20Presentation_Page2.jpg)
 ![Page03](https://github.com/saimhafeez/bankai/blob/main/screenshots/Bankai%20-%20FYP%202%20Presentation_Page3.jpg)
 ![Page04](https://github.com/saimhafeez/bankai/blob/main/screenshots/Bankai%20-%20FYP%202%20Presentation_Page4.jpg)
 ![Page05](https://github.com/saimhafeez/bankai/blob/main/screenshots/Bankai%20-%20FYP%202%20Presentation_Page5.jpg)
